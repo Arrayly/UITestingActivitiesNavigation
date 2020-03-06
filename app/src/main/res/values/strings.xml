@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UITestingActivitiesNavigation</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="navigate">Navigate</string>
+    <string name="secondary_activity">Secondary Activity</string>
+    <string name="go_back">Go Back</string>
+</resources>
